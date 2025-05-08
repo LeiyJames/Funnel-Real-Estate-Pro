@@ -33,4 +33,4 @@ A modern real estate website built with Next.js, designed to showcase properties
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Funnel-Real-Estate-Pro.git
+   git clone https://github.com/LeiyJames/Funnel-Real-Estate-Pro.git
